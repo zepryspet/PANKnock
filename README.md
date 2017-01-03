@@ -13,4 +13,4 @@ DstIP = "172.16.1.1"				#Destination used to check the logs for port knocking, t
 
 The action must be configured in the function "def PortKnockedAction ()"
 
-2. Port-knocking.py - Uses scapy to send TCP port knockings on the configured destination ports to the configured destination IP.
+2.Port-knocking.py - Uses scapy to send TCP port knockings on the configured destination ports to the configured destination IP.
