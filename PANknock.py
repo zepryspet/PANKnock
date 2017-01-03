@@ -55,7 +55,7 @@ def WasThePortKnocked (LogAPI, PortSeqPlain):
 
 #Variables defined per user needs
 Url= 'https://firewall.com/api'
-APIkey = '&key=LUFRPT13OGcxeXI3RGg3NWpBZ29BclNXeEZkWDlubUU9OEpUU1dwTy8va0UxazdINHF5Q0YwR2xsa1hyWmZZV2VjRkJtL1VkSXltaz0='
+APIkey = '&key='
 PortSeq = ["777","888","999"]
 DstIP = "172.16.1.1"
 
